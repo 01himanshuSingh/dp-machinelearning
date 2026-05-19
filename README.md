@@ -1,6 +1,5 @@
-# 📖 Name of this Multipage App
-
-Description of the app ...
+# My machine leaning app 
+App made by me 
 
 ## Demo App
 
